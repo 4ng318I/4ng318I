@@ -1,16 +1,22 @@
-### Hi there 👋
+### Muy Buenas!! 👋
+#### (((🟡))) Mi nombre es ANGEL (((🟡)))
 
-<!--
-**4ng318I/4ng318I** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Todo lo que hago aquí es por Diversión. Cualquier Parecido o Semejanza con la Realidad es Pura Casualidad
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Habilidades: PYTHON / C++ / JS / HTML / CSS
+
+- 🌱 Estoy aprendiendo cositas interesantes con Python 
+- 📫 Cómo contactarme: publicidadenviarmeaqui@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/4ng318I)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/PLCESPAÑOL)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.kaffeemaschinen.top)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4ng318I)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=4ng318I&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=4ng318I)  
+
+![Profile views](https://gpvc.arturio.dev/4ng318I)  
+
