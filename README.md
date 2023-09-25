@@ -1,14 +1,15 @@
-### Muy Buenas!! 👋
-#### (((🟡))) Tja! bin Angel... (((🟡)))
+### Guten Tag!! 👋
+#### (((🟡))) bin Angel... (((🟡)))
 
 ![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia2.giphy.com%2Fmedia%2FVEhWqu9nJHzOPKFsVA%2Fsource.gif&f=1&nofb=1)
+![](<iframe src="https://giphy.com/embed/E89xxATM4iZoPdr6Tb" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/GDevs-google-googleio-googledevs-E89xxATM4iZoPdr6Tb">via GIPHY</a></p>)
 
 
 ... und alles, was ich hier mache, ist zum Spaß. Jede Ähnlichkeit mit der Realität ist rein zufällig.
 
 Fähigkeiten: PYTHON / C++ / JS / HTML / CSS
 
-- 🌱 Ich mache einige interessante Sachen hauptsächlich mit Python. 
+- 🌱 Ich mache einige interessante Sachen hauptsächlich mit Flutter und Python. 
 - 📫 Kontakt: publicidadenviaraqui@gmail.com 
 
 
