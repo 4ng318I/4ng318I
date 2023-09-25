@@ -3,13 +3,16 @@
 
 ![](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)
 
-![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia2.giphy.com%2Fmedia%2FVEhWqu9nJHzOPKFsVA%2Fsource.gif&f=1&nofb=1)
 
+Als leidenschaftlicher Freelancer bei Flutter liebe ich es, gute Ideen in die Tat umzusetzen. 
 
+Ich bin immer offen für neue Projekte und positive und spannende Herausforderungen.
 
-... und alles, was ich hier mache, ist zum Spaß. Jede Ähnlichkeit mit der Realität ist rein zufällig.
+Dank harter Arbeit, persönlicher Entwicklung und ständigem Bemühen, zu lernen und zu wachsen, bin ich heute da, wo ich bin.
 
-Fähigkeiten: PYTHON / C++ / JS / HTML / CSS
+Natürlich werde ich nicht aufhören, Inhalte und Anwendungen für mich und die Welt zu schaffen.
+
+Fähigkeiten: PYTHON / C++ / JS / HTML / CSS / DART & FLUTTER
 
 - 🌱 Ich mache einige interessante Sachen hauptsächlich mit Flutter und Python. 
 - 📫 Kontakt: publicidadenviaraqui@gmail.com 
